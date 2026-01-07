@@ -8,3 +8,11 @@ sudo docker build -t offersplatform .
 
 https://adtechdocker.onrender.com/test.html
 https://dashboard.render.com/web/srv-d5852vuuk2gs73ddsm0g
+
+URGENT 
+render log:
+
+==> Setting WEB_CONCURRENCY=1 by default, based on available CPUs in the instance
+==> Deploying...
+
+meaning ?!
