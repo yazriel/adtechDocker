@@ -1,1 +1,10 @@
-mvn build - move jar to target
+mvn clean package
+test jar in target - java -jar xx.jar
+move jar to docker/target/app.jar (remove other jars!!)
+
+sudo systemctl start docker
+sudo docker build -t offersplatform .
+(also sudo newgrp docker)
+
+https://adtechdocker.onrender.com/test.html
+https://dashboard.render.com/web/srv-d5852vuuk2gs73ddsm0g
