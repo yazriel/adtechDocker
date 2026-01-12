@@ -11,8 +11,10 @@ sudo docker build -t offersplatform .
 
 commit and push
 
-https://adtechdocker.onrender.com/test.html
 https://dashboard.render.com/web/srv-d5852vuuk2gs73ddsm0g
+deploy latest commit
+
+https://adtechdocker.onrender.com/test.html
 
 URGENT 
 render log:
