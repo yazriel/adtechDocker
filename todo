@@ -1,3 +1,6 @@
+set react base url file
+npm run build
+
 mvn clean package
 test jar in target - java -jar xx.jar
 move jar to docker/target/app.jar (remove other jars!!)
