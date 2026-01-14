@@ -11,5 +11,6 @@ jobs:
     steps:
       - name: Ping URL
         run: |
-          curl -fsS https://adtechdocker.onrender.com/index.html
-          curl -fsS https://possible-jeannette-actionedge-9b132746.koyeb.app/
+          curl -fss agreeable-sile-actionedge-2e5ce212.koyeb.app/
+#          curl -fsS https://adtechdocker.onrender.com/index.html
+#          curl -fsS https://possible-jeannette-actionedge-9b132746.koyeb.app/
